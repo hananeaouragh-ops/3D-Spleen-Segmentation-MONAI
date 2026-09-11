@@ -56,3 +56,7 @@ Hardware Co-Design Focus: Built with future deployment on embedded AI accelerato
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
+## Sample Visualisation
+
+<img width="836" height="418" alt="image" src="https://github.com/user-attachments/assets/2a742700-1cc0-42f4-ba8b-9fe62923ae5c" />
+<img width="404" height="427" alt="image" src="https://github.com/user-attachments/assets/f3bb55a2-a987-4416-9199-d7ce4de688ce" />
