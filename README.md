@@ -7,7 +7,7 @@
 
 An end-to-end Deep Learning pipeline for 3D volumetric spleen segmentation from abdominal CT scans using **MONAI** and **PyTorch**, engineered with a focus on **memory optimization** and **Edge/Embedded AI deployment**.
 
-##Project Overview##
+#Project Overview#
 Volumetric medical data (3D NIfTI scans) typically require substantial computational resources and high RAM overhead, leading to runtime crashes in memory-constrained environments.
 
 This repository demonstrates a hardware-aware software design approach:
